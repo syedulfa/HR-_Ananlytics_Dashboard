@@ -1,4 +1,4 @@
-Strategic Analysis of Employee Attrition for Enhanced Retention
+Strategic Analysis of Employee Attrition for Enhanced Retention..
 This repository presents a sophisticated data analysis initiative aimed at elucidating patterns in employee attrition to empower HR leaders with data-driven insights for strategic retention planning.
 Project Structure:
 Data Transformation via Power Query:
